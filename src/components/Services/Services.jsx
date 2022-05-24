@@ -61,20 +61,20 @@ const Services = () => {
           />
         </motion.div>
         {/* 3rd */}
-        <motion.div
-          initial={{ top: "19rem", left: "25rem" }}
-          whileInView={{ left: "12rem" }}
-          transition={transition}
-        >
-          <Card
-            emoji={Humble}
-            heading={"Others"}
-            detail={
-              "AutoCard, AutoDesk Inventor, Mircosoft Office"
-            }
-            color="rgba(252, 166, 31, 0.45)"
-          />
-        </motion.div>
+//         <motion.div
+//           initial={{ top: "19rem", left: "25rem" }}
+//           whileInView={{ left: "12rem" }}
+//           transition={transition}
+//         >
+//           <Card
+//             emoji={Humble}
+//             heading={"Others"}
+//             detail={
+//               "AutoCard, AutoDesk Inventor, Mircosoft Office"
+//             }
+//             color="rgba(252, 166, 31, 0.45)"
+//           />
+//         </motion.div>
         <div
           className="blur s-blur2"
           style={{ background: "var(--purple)" }}
