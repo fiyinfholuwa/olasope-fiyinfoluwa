@@ -48,33 +48,7 @@ const Services = () => {
             detail={"HTML, CSS3, Javascript, Bootstrap, Jquery, ReactJs, Vuejs in View, PHP, Laravel, MySql, Nodejs in view, Express in view"}
           />
         </motion.div>
-        {/* second card */}
-//         <motion.div
-//           initial={{ left: "-11rem", top: "12rem" }}
-//           whileInView={{ left: "-4rem" }}
-//           transition={transition}
-//         >
-//           <Card
-//             emoji={Glasses}
-//             heading={"Backend Skils"}
-//             detail={"PHP, Laravel, MySql, Nodejs in view, Express in view"}
-//           />
-        </motion.div>
-        {/* 3rd */}
-//         <motion.div
-//           initial={{ top: "19rem", left: "25rem" }}
-//           whileInView={{ left: "12rem" }}
-//           transition={transition}
-//         >
-//           <Card
-//             emoji={Humble}
-//             heading={"Others"}
-//             detail={
-//               "AutoCard, AutoDesk Inventor, Mircosoft Office"
-//             }
-//             color="rgba(252, 166, 31, 0.45)"
-//           />
-//         </motion.div>
+        
         <div
           className="blur s-blur2"
           style={{ background: "var(--purple)" }}
