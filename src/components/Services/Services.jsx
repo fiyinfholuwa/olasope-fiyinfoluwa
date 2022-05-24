@@ -44,21 +44,21 @@ const Services = () => {
         >
           <Card
             emoji={HeartEmoji}
-            heading={"Frontend Skills"}
-            detail={"HTML, CSS3, Javascript, Bootstrap, Jquery, ReactJs, Vuejs in View"}
+            heading={"Frontend & Backend Skills "}
+            detail={"HTML, CSS3, Javascript, Bootstrap, Jquery, ReactJs, Vuejs in View, PHP, Laravel, MySql, Nodejs in view, Express in view"}
           />
         </motion.div>
         {/* second card */}
-        <motion.div
-          initial={{ left: "-11rem", top: "12rem" }}
-          whileInView={{ left: "-4rem" }}
-          transition={transition}
-        >
-          <Card
-            emoji={Glasses}
-            heading={"Backend Skils"}
-            detail={"PHP, Laravel, MySql, Nodejs in view, Express in view"}
-          />
+//         <motion.div
+//           initial={{ left: "-11rem", top: "12rem" }}
+//           whileInView={{ left: "-4rem" }}
+//           transition={transition}
+//         >
+//           <Card
+//             emoji={Glasses}
+//             heading={"Backend Skils"}
+//             detail={"PHP, Laravel, MySql, Nodejs in view, Express in view"}
+//           />
         </motion.div>
         {/* 3rd */}
 //         <motion.div
