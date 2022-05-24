@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/olasope-fiyinfoluwa/static/css/main.33b426db.css",
+    "main.js": "/olasope-fiyinfoluwa/static/js/main.55d8f25e.js",
+    "static/media/centa.jpg": "/olasope-fiyinfoluwa/static/media/centa.a4064c95055764b2f4e4.jpg",
+    "static/media/resume.pdf": "/olasope-fiyinfoluwa/static/media/resume.a0bd874d44998392273a.pdf",
+    "static/media/mypic.png": "/olasope-fiyinfoluwa/static/media/mypic.528ecfa65eb15739b2f7.png",
+    "static/media/tefy.png": "/olasope-fiyinfoluwa/static/media/tefy.8681efa3a889005e2533.png",
+    "static/media/glassesimoji.png": "/olasope-fiyinfoluwa/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/evodia.png": "/olasope-fiyinfoluwa/static/media/evodia.63d0cdeb6a1041e71e3b.png",
+    "static/media/thumbup.png": "/olasope-fiyinfoluwa/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/olasope-fiyinfoluwa/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/olasope-fiyinfoluwa/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/olasope-fiyinfoluwa/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/olasope-fiyinfoluwa/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/olasope-fiyinfoluwa/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/olasope-fiyinfoluwa/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/olasope-fiyinfoluwa/index.html",
+    "main.33b426db.css.map": "/olasope-fiyinfoluwa/static/css/main.33b426db.css.map",
+    "main.55d8f25e.js.map": "/olasope-fiyinfoluwa/static/js/main.55d8f25e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33b426db.css",
+    "static/js/main.55d8f25e.js"
+  ]
+}
